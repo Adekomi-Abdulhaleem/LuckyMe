@@ -1,0 +1,14 @@
+
+header {margin: 70px 0 100px;
+}
+
+
+#email-input {margin-bottom: 40px;
+}
+
+
+@media (max-width: 829px) {
+    header {margin: 50px;
+    }
+}
+

@@ -1,0 +1,27 @@
+header {margin: 70px 0 100px;
+}
+
+
+#price {font-weight: bold;
+        color: red;
+}
+
+.input-field {padding: 10px;
+              width: 250px;
+              margin-bottom: 25px;
+}
+
+input {margin-bottom: 25px;
+}
+
+.submit-btn {padding: 10px 10px;
+             font-size: 20px;
+}
+
+
+
+
+@media (max-width: 829px) {
+    header {margin: 50px;
+    }
+}

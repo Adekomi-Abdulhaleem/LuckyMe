@@ -1,0 +1,18 @@
+.main-section main {display: flex;
+                    justify-content: center;
+                    flex-direction: column;
+                    height: 85%;
+}
+
+#reset-header {color: red;
+               font-weight: bold;
+               font-size: 36px;
+               line-height: 0px;
+}
+
+#email-input {padding: 0 20px;
+}
+
+.submit-btn {width: 140px;
+             margin: 0;
+}

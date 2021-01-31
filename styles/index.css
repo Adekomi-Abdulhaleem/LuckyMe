@@ -1,0 +1,37 @@
+body {padding: 0;
+      margin: 0;
+}
+
+header {display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 15vh;
+}
+
+main {background-color: rgb(46, 40, 40);
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      height: 85vh;
+}
+
+.section-one {display: flex;
+              justify-content: space-around;
+}
+
+.section-one button {padding: 10px 30px;
+                     border-radius: 50px;
+                     color: rgb(238, 169, 40);
+                     color: white;
+                     border: none;
+                     outline: none;
+                     font-size: 20px;
+}
+
+.section-two {text-align: center;
+              color: white;
+              position: relative;
+              top: 30vh;
+}
+.section-two h2 {color: rgb(238, 169, 40);
+}

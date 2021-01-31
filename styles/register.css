@@ -1,0 +1,20 @@
+header {margin: 50px;
+}
+
+.facebook-btn {margin: 10px 0;
+}
+
+.input-field {margin-bottom: 35px;
+}
+
+ul {display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+
+
+@media (max-width: 829px) {
+    main {padding: 0 10px;
+    }
+}
